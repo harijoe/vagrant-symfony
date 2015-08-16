@@ -11,6 +11,7 @@
       - wget
       - build-essential
       - python-software-properties
+      - vim
 
   - name: Add ppa repository
     sudo: yes
